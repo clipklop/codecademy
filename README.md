@@ -1,2 +1,2 @@
 # Codecademy
-###Projects from Codecademy Learning Platform
+### Projects from Codecademy Learning Platform
